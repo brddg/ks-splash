@@ -148,12 +148,24 @@ h2 {
   margin-top: 5px;
 }
 
+@media (max-width: 767px) {
+  h2 {
+    font-size: 16px;
+  }
+}
+
 h3 {
   font-family: 'Droid Serif', serif;
   font-weight: 400;
   font-size: 30px;
   margin-bottom: 0;
   margin-top: 20px;
+}
+
+@media (max-width: 767px) {
+  h3 {
+    font-size: 24px;
+  }
 }
 
 .break {
