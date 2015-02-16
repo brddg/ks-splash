@@ -1,0 +1,10 @@
+
+.icon-icon {
+	background-image: url('/img/icon.png');
+	background-repeat: no-repeat;
+}
+
+.icon-wordmark {
+	background-image: url('/img/wordmark.png');
+	background-repeat: no-repeat;
+}
