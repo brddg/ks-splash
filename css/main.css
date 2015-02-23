@@ -186,6 +186,20 @@ p {
   font-size: 18px;
 }
 
+.button {
+  display: inline-block;
+  background: #A08055;
+  color: white;
+  text-align: center;
+  padding: 11px 20px 10px;
+  text-decoration: none;
+}
+
+.button:hover {
+  opacity: .8;
+  text-decoration: none;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
